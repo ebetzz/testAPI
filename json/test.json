@@ -1,0 +1,31 @@
+[{
+        "usrid": "09012381293",
+        "usrname": "aryo Tri",
+        "usremail": "ampas@ampas.bgt",
+        "usraddr": "JL Raya Pondok Gede 44",
+        "pekerjaan": [
+            "pekerjaan1",
+            "pekerjaan2",
+            "pekerjaan3"
+        ],
+        "pembimbing": {
+            "pembimbing1": "orang1",
+            "pembimbing2": "orang2"
+        }
+    },
+    {
+        "usrid": "09012381293",
+        "usrname": "aryo Tri",
+        "usremail": "ampas@ampas.bgt",
+        "usraddr": "JL Raya Pondok Gede 44",
+        "pekerjaan": [
+            "pekerjaan1",
+            "pekerjaan2",
+            "pekerjaan3"
+        ],
+        "pembimbing": {
+            "pembimbing1": "orang1",
+            "pembimbing2": "orang2"
+        }
+    }
+]
